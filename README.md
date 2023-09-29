@@ -5,5 +5,6 @@ Computer Science 1 at Western Nebraska Community College.
 - (09-14-23) V1-V3 Initial commit
 - (09-14-23) V4 commit
 - (09-14-23) V5 commit
+- (09-29-23) V6 commit
 ### Purpose
 POS program using agile development
